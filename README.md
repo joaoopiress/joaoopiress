@@ -32,7 +32,7 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 
 ---
 
-## 🚀 Projects
+## 👨‍💻 Projects
 
 ### 📊 [Deep Learning Architectures for Predicting PSI20 Trends](https://github.com/joaoopiress/psi20-prediction)
 **Description:** Development and comparison of Deep Learning models (LSTM, ALSTM, and Transformers) to classify Portuguese stock index (PSI20) movements, achieving a Macro F1-Score of 62.5%. The project features a robust data engineering pipeline using Wavelet Transform denoising and Z-score normalization on a 10-year dataset.
@@ -41,14 +41,14 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 
 ---
 
-## Education
+## 🎓 Education
 **MSc in Data Science and Engineering** - Instituto Superior Técnico, Lisbon, Portugal (Ongoing).
 
 **BSc in Physics** - University of Aveiro, Aveiro, Portugal (Jul 2025).
 
 ---
 
-## 📫 Contact:
+## 📫 Connect with me:
 
 <a href="mailto:joaopires7999@gmail.com">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" height="40" alt="Gmail">
