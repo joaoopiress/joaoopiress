@@ -6,14 +6,6 @@ Feel free to explore my repositories!
 
 ---
 
-## 📕 Guides
-
-### Journey into [Tua Área]
-**Descrição:** Guia detalhado e de fácil compreensão que documenta a minha aprendizagem, cobrindo teoria fundamental, estatística e machine learning.
-**Objetivo:** Criar um documento vivo que simplifica conceitos complexos com exemplos do mundo real.
-
----
-
 ## 📖 Publications
 
 ### Beyond the Surface: Estimating Internal Battery Pressure and Temperature
