@@ -34,7 +34,7 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 
 ## 🚀 Projects
 
-### 📊 [Deep Learning Architectures for Predicting PSI20 Trends]
+### 📊 [Deep Learning Architectures for Predicting PSI20 Trends](https://github.com/joaoopiress/psi20-prediction)
 **Description:** Development and comparison of Deep Learning models (LSTM, ALSTM, and Transformers) to classify Portuguese stock index (PSI20) movements, achieving a Macro F1-Score of 62.5%. The project features a robust data engineering pipeline using Wavelet Transform denoising and Z-score normalization on a 10-year dataset.
 
 **Objective:** Improve the predictive accuracy of financial trends through complex architectures refined via Bayesian Search. This project was awarded "Best Project" in the senior-year "Physics Project" course with a grade of 18/20.
