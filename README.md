@@ -36,4 +36,4 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 ## 📫 Contacto:
 [![Gmail](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg)](mailto:joaopires7999@gmail.com)
 [![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/joaoo-piress/)
-[![Instagram](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg)](TEU_LINK_AQUI)
+[![Instagram](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg)](https://www.linkedin.com/in/joaoo-piress/)
