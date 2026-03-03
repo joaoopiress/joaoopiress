@@ -34,5 +34,5 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 ---
 
 ## 📫 Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TEU_LINK_AQUI)
-[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg)](TEU_LINK_AQUI)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg)](https://www.linkedin.com/in/joaoo-piress/)
+[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/instagram.svg)](TEU_LINK_AQUI)
