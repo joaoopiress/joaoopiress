@@ -11,7 +11,7 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 
 ---
 
-## 📕 Guias
+## 📕 Guides
 
 ### Journey into [Tua Área]
 **Descrição:** Guia detalhado e de fácil compreensão que documenta a minha aprendizagem, cobrindo teoria fundamental, estatística e machine learning.
@@ -19,7 +19,7 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projects
 
 ### 📊 [Nome do Projeto 1]
 **Descrição:** [Breve explicação do que o projeto faz].
