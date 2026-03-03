@@ -19,12 +19,21 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 
 ---
 
+## Publications
+
+### [Beyond the Surface: Estimating Internal Battery Pressure and Temperature]
+**Description:** Application of Machine Learning (Temporal Convolutional Networks) and optical fiber sensors to estimate internal battery states. It involved creating data cleaning (Savitzky–Golay filter) and normalization (Z-Score) pipelines for sensor data to ensure high model integrity.
+**Objective:** Develop a non-invasive and precise method for monitoring battery safety and internal conditions by optimizing predictive performance through Bayesian Optimization via Optuna.
+
+
+---
+
 ## 🚀 Projects
 
-### 📊 [Nome do Projeto 1]
-**Descrição:** [Breve explicação do que o projeto faz].
-**Objetivo:** [O problema que resolveste].
-[Link para o projeto]
+### 📊 [Deep Learning Architectures for Predicting PSI20 Trends]
+**Description:** Development and comparison of Deep Learning models (LSTM, ALSTM, and Transformers) to classify Portuguese stock index (PSI20) movements, achieving a Macro F1-Score of 62.5%. The project features a robust data engineering pipeline using Wavelet Transform denoising and Z-score normalization on a 10-year dataset.
+**Objective:** Improve the predictive accuracy of financial trends through complex architectures refined via Bayesian Search. This project was awarded "Best Project" in the senior-year "Physics Project" course with a grade of 18/20.
+
 
 ### 🤖 [Nome do Projeto 2]
 **Descrição:** [Breve explicação].
