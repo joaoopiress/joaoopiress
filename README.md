@@ -1,4 +1,4 @@
-# Hey, I'm [Teu Nome]! 👋
+# Hey, I'm João! 
 
 Bem-vindo ao meu portfólio. Como [Tua Profissão/Estudante] com background em [Tua Área], foco-me em [O que fazes, ex: gerar insights e desenvolver modelos] para apoiar a tomada de decisões baseada em dados.
 
