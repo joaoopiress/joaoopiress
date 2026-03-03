@@ -1,14 +1,9 @@
 # Hey, I'm João! 
 
-Bem-vindo ao meu portfólio. Como [Tua Profissão/Estudante] com background em [Tua Área], foco-me em [O que fazes, ex: gerar insights e desenvolver modelos] para apoiar a tomada de decisões baseada em dados.
+Welcome to my GitHub portfolio. I am a Master’s student in Data Science and Engineering at Instituto Superior Técnico (IST) with a strong background in Theoretical Physics and Mathematics. I am particularly interested in the Finance sector, where I apply quantitative methods and predictive modeling to analyze market dynamics. This GitHub profile serves as a growing portfolio of projects that demonstrate my expertise in:
 
-Tenho um portfólio crescente de projetos que demonstram a minha experiência em:
-* **Linguagens:** Python, SQL, R
-* **Visualização:** Tableau, Seaborn, Matplotlib
-* **Machine Learning:** Modelos supervisionados e não supervisionados
 
-Sente-te à vontade para explorar os meus repositórios e contactar-me!
-
+Feel free to explore my repositories and contact me if you have any questions!
 ---
 
 ## 📕 Guides
