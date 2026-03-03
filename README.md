@@ -34,9 +34,9 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 ---
 
 ## Education
-**MSc in Data Science and Engineering** - Instituto Superior Técnico, Lisbon, Portugal (Ongoing)
+**MSc in Data Science and Engineering** - Instituto Superior Técnico, Lisbon, Portugal (Ongoing).
 
-**BSc in Physics** - University of Aveiro, Aveiro, Portugal (Jul 2025)
+**BSc in Physics** - University of Aveiro, Aveiro, Portugal (Jul 2025).
 
 ---
 
