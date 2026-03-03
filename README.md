@@ -32,7 +32,14 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 [Link para o projeto]
 
 ---
-## 📫 Contacto:
+
+Education
+MSc in Data Science and Engineering - Instituto Superior Técnico, Lisbon, Portugal (Ongoing)
+BSc in Physics - University of Aveiro, Aveiro, Portugal (Jul 2025)
+
+---
+
+## 📫 Contact:
 
 <a href="mailto:joaopires7999@gmail.com">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" height="40" alt="Gmail">
