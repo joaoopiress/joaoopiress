@@ -1,9 +1,9 @@
 # Hey, I'm João! 
 
-Welcome to my GitHub portfolio. I am a Master’s student in Data Science and Engineering at Instituto Superior Técnico (IST) with a strong background in Theoretical Physics and Mathematics. I am particularly interested in the Finance sector, where I apply quantitative methods and predictive modeling to analyze market dynamics. This GitHub profile serves as a growing portfolio of projects that demonstrate my expertise in:
+Welcome to my GitHub portfolio. I am a Master’s student in Data Science and Engineering at Instituto Superior Técnico (IST) with a strong background in Theoretical Physics and Mathematics. I am particularly interested in the Finance sector, where I apply quantitative methods and predictive modeling to analyze market dynamics. This GitHub profile serves as a growing portfolio of projects that demonstrate my expertise in: 
 
+Feel free to explore my repositories!
 
-Feel free to explore my repositories and contact me if you have any questions!
 ---
 
 ## 📕 Guides
