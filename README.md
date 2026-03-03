@@ -48,6 +48,6 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 <a href="https://www.linkedin.com/in/joaoo-piress/">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" height="40" alt="LinkedIn">
 </a>
-<a href="https://www.instagram.com/TEU_USER_INSTAGRAM/">
+<a href="https://www.instagram.com/joaopires16/">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="40" height="40" alt="Instagram">
 </a>
