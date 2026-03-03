@@ -22,9 +22,7 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 ## Publications
 
 ### Beyond the Surface: Estimating Internal Battery Pressure and Temperature
-*L. Matuck, M. Nascimento, J. P. Pires, J. F. F. Mendes, M. S. Ferreira*
-
-(Nature Machine Intelligence — Under Review)
+*L. Matuck, M. Nascimento, J. P. Pires, J. F. F. Mendes, M. S. Ferreira* | *(Nature Machine Intelligence — Under Review)*
 
 **Description:** Application of Machine Learning (Temporal Convolutional Networks) and optical fiber sensors to estimate internal battery states. It involved creating data cleaning (Savitzky–Golay filter) and normalization (Z-Score) pipelines for sensor data to ensure high model integrity.
 
