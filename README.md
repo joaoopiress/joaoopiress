@@ -19,7 +19,7 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 
 ---
 
-## Publications
+## 📖 Publications
 
 ### Beyond the Surface: Estimating Internal Battery Pressure and Temperature
 *L. Matuck, M. Nascimento, J. P. Pires, J. F. F. Mendes, M. S. Ferreira* | *(Nature Machine Intelligence — Under Review)*
