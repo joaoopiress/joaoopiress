@@ -47,6 +47,12 @@ Sente-te à vontade para explorar os meus repositórios e contactar-me!
 
 ---
 
+## 🙋‍♂️ Want to learn more?
+
+Here is my [CV](https://github.com/joaoopiress/joaoopiress/blob/main/CV-JoaoPires.pdf)!
+
+---
+
 ## 📫 Connect with me:
 
 <a href="mailto:joaopires7999@gmail.com">
