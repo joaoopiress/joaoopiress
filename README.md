@@ -57,7 +57,7 @@ Here is my [CV](https://github.com/joaoopiress/joaoopiress/blob/main/CV-JoaoPire
 
 ---
 
-## 📫 Connect with me:
+## 📫 Let’s connect!:
 
 <a href="mailto:joaopires7999@gmail.com">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" height="40" alt="Gmail">
