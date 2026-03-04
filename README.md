@@ -12,11 +12,11 @@ Feel free to explore my repositories!
 
 I document my academic journey through **LaTeX** summaries. These are my class notes for complex concepts, bridging the gap between mathematical theory and practical implementation.
 
--**Machine Learning:** [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/ML_Notes.pdf).
+- **Machine Learning:** [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/ML_Notes.pdf).
 
--**Deep Learning:** [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/DL_Notes.pdf).
+- **Deep Learning:** [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/DL_Notes.pdf).
 
--**Computational Statistics:** [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/Comp_Statics_Notes.pdf).
+- **Computational Statistics:** [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/Comp_Statics_Notes.pdf).
 
 ---
 
@@ -45,9 +45,9 @@ I document my academic journey through **LaTeX** summaries. These are my class n
 ---
 
 ## 🎓 Education
-**MSc in Data Science and Engineering** - Instituto Superior Técnico, Lisbon, Portugal (Ongoing).
+- **MSc in Data Science and Engineering** - Instituto Superior Técnico, Lisbon, Portugal (Ongoing).
 
-**BSc in Physics** - University of Aveiro, Aveiro, Portugal (Jul 2025).
+- **BSc in Physics** - University of Aveiro, Aveiro, Portugal (Jul 2025).
 
 ---
 
