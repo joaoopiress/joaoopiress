@@ -8,6 +8,18 @@ Feel free to explore my repositories!
 
 ---
 
+## 🧠 Learning Guides 
+
+I document my academic journey through **LaTeX** summaries. These are my class notes for complex concepts, bridging the gap between mathematical theory and practical implementation.
+
+**Machine Learning:**[Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/ML_Notes.pdf).
+
+**Deep Learning:**[Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/DL_Notes.pdf).
+
+**Computational Statistics:** [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/Comp_Statics_Notes.pdf).
+
+---
+
 ## 📖 Publications
 
 ### Beyond the Surface: Estimating Internal Battery Pressure and Temperature
