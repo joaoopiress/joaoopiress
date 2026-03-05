@@ -42,6 +42,14 @@ I document my academic journey through **LaTeX** summaries. These are my class n
 
 **Objective:** Improve the predictive accuracy of financial trends through complex architectures refined via Bayesian Search. This project was awarded "Best Project" in the senior-year "Physics Project" course with a grade of 18/20.
 
+### [Personal Finance Intelligence](https://github.com/joaoopiress/personal-finance-intelligence)
+
+*(R, R-Shiny, PostgreSQL)*
+
+**Description:** Personal finance analytics system built with R, PostgreSQL, and Shiny. Features an automated data pipeline, an iterative ML transaction classifier (Keyword Rules → Naive Bayes → Logistic Regression) with real-time category suggestion, a 3-model spending forecast ensemble (Holt-Winters, Linear Trend, Moving Average), and a live CRUD dashboard connected to a PostgreSQL database.
+
+**Objective:** Demonstrate a full data science workflow — from raw bank transaction data to actionable financial insights — covering data engineering, NLP feature extraction, machine learning experimentation, statistical forecasting, and full-stack application development in R Shiny.
+
 ---
 
 ## 🎓 Education
