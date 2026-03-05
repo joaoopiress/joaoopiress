@@ -44,7 +44,7 @@ I document my academic journey through **LaTeX** summaries. These are my class n
 
 ### [Personal Finance Intelligence](https://github.com/joaoopiress/personal-finance-intelligence)
 
-*(R, R-Shiny, PostgreSQL)*
+*(R, R-Shiny, HTML/CSS, PostgreSQL)*
 
 **Description:** Personal finance analytics system built with R, PostgreSQL, and Shiny. Features an automated data pipeline, an iterative ML transaction classifier (Keyword Rules → Naive Bayes → Logistic Regression) with real-time category suggestion, a 3-model spending forecast ensemble (Holt-Winters, Linear Trend, Moving Average), and a live CRUD dashboard connected to a PostgreSQL database.
 
@@ -59,13 +59,20 @@ I document my academic journey through **LaTeX** summaries. These are my class n
 
 ---
 
-## 🙋‍♂️ Want to learn more?
+## 🎓 Certifications
+- **MSc in Data Science and Engineering** - Instituto Superior Técnico, Lisbon, Portugal (Ongoing).
+
+- **BSc in Physics** - University of Aveiro, Aveiro, Portugal (Jul 2025).
+
+---
+
+## 📝 Want to learn more?
 
 Here is my [CV](https://github.com/joaoopiress/joaoopiress/blob/main/CV-JoaoPires.pdf)!
 
 ---
 
-## 📫 Let’s connect!:
+## 📫 Let’s connect!
 
 <a href="mailto:joaopires7999@gmail.com">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" height="40" alt="Gmail">
