@@ -59,14 +59,16 @@ I document my academic journey through **LaTeX** summaries. These are my class n
 
 ---
 
-## 🎓 Certifications
-- **MSc in Data Science and Engineering** - Instituto Superior Técnico, Lisbon, Portugal (Ongoing).
+## 📝 Certifications
+- **Introduction to Microsoft Excel** - [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/certf/Certificado_Excel.pdf).
 
-- **BSc in Physics** - University of Aveiro, Aveiro, Portugal (Jul 2025).
+- **MATLAB Fundamentals** - [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/certf/Certificado_Matlab.pdf).
+
+- **Python 101 for Data Science** - [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/certf/Certificado_Python.pdf).
 
 ---
 
-## 📝 Want to learn more?
+## 🙋‍♂️ Want to learn more?
 
 Here is my [CV](https://github.com/joaoopiress/joaoopiress/blob/main/CV-JoaoPires.pdf)!
 
