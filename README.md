@@ -12,6 +12,10 @@ Feel free to explore my repositories!
 
 I document my academic journey through **LaTeX** summaries. These are my class notes for complex concepts, bridging the gap between mathematical theory and practical implementation.
 
+- **Analytical Mechanics and Relativity:** [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/Analitical_Mec_Relativity_Notes.pdf).
+
+- **Waves:** [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/Waves_Notes.pdf).
+
 - **Machine Learning:** [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/ML_Notes.pdf).
 
 - **Deep Learning:** [Here is the link!](https://github.com/joaoopiress/joaoopiress/blob/main/Data-Science-Foundations/DL_Notes.pdf).
