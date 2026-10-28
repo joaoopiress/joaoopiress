@@ -11,7 +11,7 @@
   <a href="./CV-JoaoPires.pdf"><img src="https://img.shields.io/badge/CV-PDF-24292f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"></a>
 </p>
 
-### 👋 About me
+### About me
 
 Physicist turned data scientist. I'm finishing an **MSc in Data Science & Engineering at Instituto Superior Técnico** (expected July 2027), after a **BSc in Physics** at the University of Aveiro.
 
@@ -19,20 +19,18 @@ I like problems where the signal is buried in noise: **time series, anomaly dete
 
 ---
 
-### 🔬 Currently working on
+### Currently working on
 
 - **Uncertainty-aware anomaly detection for fraud** — MSc research project supervised by Feedzai: modelling cardholder histories as sequences and scoring anomalies with predictive uncertainty, to depend less on labelled data.
-- **Data warehousing** — star-schema DW on a century of Portuguese economic data (MySQL + Apache Hop).
-
 ---
 
-### 🔗 Main skills
+### Main skills
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,tensorflow,anaconda,latex,matlab,git,github,fastapi,react,html,css,md&perline=15" alt="Python, R, PostgreSQL, MySQL, TensorFlow, Anaconda, LaTeX, MATLAB, Git, GitHub, FastAPI, React, HTML, CSS, Markdown">
 </a>
 
-### 📖 Studying
+### Studying
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS (Machine Learning Engineer Associate)">
@@ -40,7 +38,7 @@ I like problems where the signal is buried in noise: **time series, anomaly dete
 
 ---
 
-### 🎓 Education
+### Education
 
 | Degree | Institution | Dates |
 |---|---|---|
