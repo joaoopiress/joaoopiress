@@ -11,10 +11,6 @@
   <a href="./CV-JoaoPires.pdf"><img src="https://img.shields.io/badge/CV-PDF-24292f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"></a>
 </p>
 
-### About me
-
-Physicist turned data scientist. I'm finishing an **MSc in Data Science & Engineering at Instituto Superior Técnico** (expected July 2027), after a **BSc in Physics** at the University of Aveiro. I like problems where the signal is buried in noise: **time series, anomaly detection and financial data**. I build end-to-end, from cleaning raw data and engineering features to training, tuning and shipping models in an app someone can use.
-
 ---
 
 ### Main skills
