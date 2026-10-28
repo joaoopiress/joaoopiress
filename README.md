@@ -13,15 +13,8 @@
 
 ### About me
 
-Physicist turned data scientist. I'm finishing an **MSc in Data Science & Engineering at Instituto Superior Técnico** (expected July 2027), after a **BSc in Physics** at the University of Aveiro.
+Physicist turned data scientist. I'm finishing an **MSc in Data Science & Engineering at Instituto Superior Técnico** (expected July 2027), after a **BSc in Physics** at the University of Aveiro. I like problems where the signal is buried in noise: **time series, anomaly detection and financial data**. I build end-to-end, from cleaning raw data and engineering features to training, tuning and shipping models in an app someone can use.
 
-I like problems where the signal is buried in noise: **time series, anomaly detection and financial data**. I build end-to-end, from cleaning raw data and engineering features to training, tuning and shipping models in an app someone can use.
-
----
-
-### Currently working on
-
-- **Uncertainty-aware anomaly detection for fraud** — MSc research project supervised by Feedzai: modelling cardholder histories as sequences and scoring anomalies with predictive uncertainty, to depend less on labelled data.
 ---
 
 ### Main skills
