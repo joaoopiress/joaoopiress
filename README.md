@@ -17,36 +17,6 @@ Physicist turned data scientist. I'm finishing an **MSc in Data Science & Engine
 
 I like problems where the signal is buried in noise: **time series, anomaly detection and financial data**. I build end-to-end, from cleaning raw data and engineering features to training, tuning and shipping models in an app someone can use.
 
-> 🎯 **Open to:** MSc thesis internships and Data Science / ML roles in Portugal (hybrid or remote).
-
----
-
-### 🚀 Featured projects
-
-#### 💸 [Personal Finance Intelligence](https://github.com/joaoopiress/personal-finance-intelligence) · `R` `PostgreSQL` `Shiny`
-
-<a href="https://github.com/joaoopiress/personal-finance-intelligence">
-  <img src="https://github.com/joaoopiress/personal-finance-intelligence/raw/main/assets/demo.gif" width="720" alt="Personal Finance Intelligence dashboard demo">
-</a>
-
-Full-stack analytics app that turns raw bank transactions into insight.
-- **ML classifier built iteratively:** keyword rules → Naive Bayes → multinomial logistic regression with engineered text and amount features, served live as the user types.
-- **Forecast ensemble** (Holt-Winters + linear trend + moving average) with a 95% prediction interval.
-- **Live CRUD dashboard** on PostgreSQL, plus 10 analytical SQL queries (window functions, `LAG()`, rolling averages).
-
-#### 📈 [Deep Learning for PSI20 Trend Prediction](https://github.com/joaoopiress/psi20-prediction) · `Python` `TensorFlow` `Keras`
-
-Comparative study of **LSTM, Attention-LSTM and Transformer** models classifying daily PSI20 moves (rise / flat / drop) on 10 years of data.
-- **Macro F1 of 62.5%** on a three-class market-direction task.
-- Wavelet denoising (Coiflet 3), Z-score normalisation and Bayesian hyperparameter search.
-- 🏆 **Best Project award** in the final-year Physics Project course (18/20).
-
-#### 🔋 Battery state estimation · *paper under review (Nature Machine Intelligence)*
-
-*L. Matuck, M. Nascimento, **J. P. Pires**, J. F. F. Mendes, M. S. Ferreira*
-
-Temporal Convolutional Networks on optical-fibre sensor data to estimate **internal battery pressure and temperature** non-invasively. I built the preprocessing pipeline (Savitzky–Golay filtering, Z-score) and tuned the models with Bayesian optimisation (Optuna).
-
 ---
 
 ### 🔬 Currently working on
@@ -100,5 +70,5 @@ Temporal Convolutional Networks on optical-fibre sensor data to estimate **inter
 ### 💼 Employer?
 
 > [!IMPORTANT]
-> I'm open to **MSc thesis internships** and **Data Science / ML roles**.<br>
+> I'm open to **MSc thesis internships** and **Ai Engineering / ML roles**.<br>
 > [**Download my resume**](./CV-JoaoPires.pdf)
