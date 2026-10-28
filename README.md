@@ -52,13 +52,13 @@ Physicist turned data scientist. I'm finishing an **MSc in Data Science & Engine
 
 ---
 
-### 🤝 Connect with me!
+### Connect with me!
 
 <a href="https://www.linkedin.com/in/joaoo-piress/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
 <a href="mailto:joaopires7999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"></a>
 <a href="https://github.com/joaoopiress"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"></a>
 
-### 💼 Employer?
+### Employer?
 
 > [!IMPORTANT]
 > I'm open to **MSc thesis internships** and **Ai Engineering / ML roles**.<br>
