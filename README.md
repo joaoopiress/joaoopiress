@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/joaoo-piress/">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode_v2.svg">
-    <img alt="João Pires — MSc Data Science & Engineering @ IST" src="./light_mode_v2.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode_v3.svg">
+    <img alt="João Pires — MSc Data Science & Engineering @ IST" src="./light_mode_v3.svg">
   </picture>
 </a>
 
